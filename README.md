@@ -1,4 +1,4 @@
-# Covid_Misinformation_Analysis
+# Covid Misinformation Analysis
 **Deep learning models (LSTM and CNN) on covid misinformation tweets**
 
 Citation of paper providing original dataset:  Shahi, Gautam Kishore, Anne Dirkson, and Tim A. Majchrzak. "An exploratory study of covid-19 misinformation on twitter." Online Social Networks and Media 22 (2021): 100104.
